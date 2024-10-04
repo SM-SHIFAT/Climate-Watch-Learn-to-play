@@ -1,4 +1,4 @@
-# climate_watch
+# Climate Watch: Learn to Play, Play to Learn
 
 A new Flutter project.
 
